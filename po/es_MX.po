@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Aceptar"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Rechazar"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Vincular nuevo dispositivo"
+
+msgid "loca_fi_device"
+msgstr "Dispositivo GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Este dispositivo brinda servicios basados en posicionamiento y localización "
+"mediante la utilización de redes celulares y GPS.\n"
+"\n"
+"Estos servicios y su exactitud dependen, entre otras cosas, de la "
+"disponibilidad de redes inalámbricas y sistemas satelitales, que pueden no "
+"funcionar en todas las áreas o en todos los momentos. Asimismo, la "
+"cartografía digital puede ser inexacta. Por eso, nunca confíe únicamente en "
+"el material y servicios anteriormente mencionados, por ejemplo, para "
+"comunicaciones esenciales como emergencias.\n"
+"\n"
+" Los servicios basados en posicionamiento y localización, así como su "
+"contenido, se brindan exclusivamente con fines no comerciales. La "
+"utilización de tales servicios puede requerir la transmisión de grandes "
+"volúmenes de datos a través de la red del proveedor del servicio. Para "
+"obtener información sobre los cargos derivados de la transmisión de datos, "
+"póngase en contacto con el proveedor del servicio.\n"
+"\n"
+"Asimismo, tenga en cuenta las notificaciones que brindan información "
+"adicional sobre los servicios basados en posicionamiento y localización.\n"
+"\n"
+"Nokia Corporation, sus subsidiarias y concedentes, por medio de la presente "
+"niegan toda responsabilidad derivada del uso de este producto y su "
+"contenido, en los límites máximos permitidos por ley."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Activar"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Activar"
+
+msgid "loca_fi_location_server"
+msgstr "Servidor de ubicación"
+
+msgid "loca_fi_network"
+msgstr "Posicionamiento de red"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Ubicación"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Imposible contactar con el servidor de ubicación definido por el usuario. "
+"Utilizando %s en su lugar."
+
+msgid "loca_in_no_data"
+msgstr "Imposible descargar datos del mapa"
+
+msgid "loca_in_no_fix"
+msgstr "Imposible obtener señal de GPS"
+
+msgid "loca_li_device_internal"
+msgstr "GPS interno"
+
+msgid "loca_li_device_none"
+msgstr "Ninguna"
+
+msgid "loca_me_location_home_applet"
+msgstr "Ubicación"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Se perdió la conexión al dispositivo GPS Bluetooth. ¿Reconectar?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"¿Aceptar solicitud de ubicación? Solicitante: %s, cliente: %s. Aceptada por "
+"defecto después de agotarse el tiempo de espera."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"¿Aceptar solicitud de ubicación? Solicitante: %s, cliente: %s. Rechazada por "
+"defecto después de agotarse el tiempo de espera."
+
+msgid "loca_nc_request_no_default"
+msgstr "¿Aceptar solicitud de ubicación? Solicitante: %s, cliente: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "¿Activar GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "¿Activar GPS y posicionamiento basado en red?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "¿Activar posicionamiento basado en red?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Imposible aceptar solicitud"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"La red aceptó la solicitud por usted. La ubicación se envió al solicitante: "
+"%s, cliente: %s."
+
+msgid "loca_ni_reject_expired"
+msgstr "Imposible rechazar solicitud"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"La red rechazó la solicitud por usted. La ubicación no se envió al "
+"solicitante: %s, cliente: %."
+
+msgid "loca_ni_req_sent"
+msgstr "La red envió su ubicación al solicitante: %s, cliente %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "NOTIFICACIÓN Y DESCARGO DE RESPONSABILIDAD"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Ubicación"
+
+msgid "loca_ti_services"
+msgstr "Posicionamiento de red"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "¿Activar posicionamiento?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Búsqueda en progreso"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Precisión gruesa"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Precisión fina"
+
+msgid "loca_va_unknown"
+msgstr "Desconocido"
+
+msgid "loca_va_unknown_device"
+msgstr "Dispositivo desconocido"

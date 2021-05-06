@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Aceitar"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Rejeitar"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Emparelhar novo dispositivo"
+
+msgid "loca_fi_device"
+msgstr "Dispositivo GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Este dispositivo permite o posicionamento e a utilização de funcionalidades "
+"e/ou serviços baseados na localização utilizando o posicionamento da rede "
+"celular e o GPS.\n"
+"\n"
+"Os serviços de posicionamento e/ou baseados na localização e a sua precisão "
+"dependem, entre outros aspectos, da disponibilidade de redes e sistemas de "
+"satélite. Estes podem não funcionar em todos os locais ou de forma "
+"permanente. Além disso, a cartografia digital pode ser imprecisa. Nunca se "
+"baseie exclusivamente numa destas funcionalidades, por exemplo para "
+"comunicações essenciais como emergências.\n"
+"\n"
+" Os serviços de posicionamento e/ou baseados na localização e os respectivos "
+"conteúdos são apenas destinados a uso não comercial. A utilização dos "
+"serviços baseados na localização e os respectivos conteúdos pode envolver a "
+"transmissão de quantidades significativas de dados através da rede do "
+"fornecedor de serviços. Contacte o seu fornecedor de serviços para obter "
+"informações sobre as taxas relativas à transmissão de dados.\n"
+"\n"
+"Tenha em atenção notificações de serviço específicas que incluam informações "
+"adicionais importantes relativamente aos serviços de posicionamento ou "
+"baseados em serviços.\n"
+"\n"
+"No limite máximo permitido pela legislação aplicável, a Nokia Corporation e "
+"respectivas subsidiárias e licenciadoras rejeitam toda e qualquer "
+"responsabilidade decorrente de qualquer uso deste produto e do respectivo "
+"conteúdo."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Activar"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Activar"
+
+msgid "loca_fi_location_server"
+msgstr "Servidor de localização"
+
+msgid "loca_fi_network"
+msgstr "Posicionamento da rede"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Localização"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Não foi possível contactar o servidor definido pelo utilizador. A utilizar "
+"%s."
+
+msgid "loca_in_no_data"
+msgstr "Não foi possível transferir dados de mapa"
+
+msgid "loca_in_no_fix"
+msgstr "Não foi possível fixar sinal GPS"
+
+msgid "loca_li_device_internal"
+msgstr "GPS interno"
+
+msgid "loca_li_device_none"
+msgstr "Nenhum"
+
+msgid "loca_me_location_home_applet"
+msgstr "Localização"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "A ligação GPS Bluetooth perdeu-se. Tentar ligar novamente?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Aceitar pedido de localização? Criador do pedido: %s, cliente: %s. Aceite "
+"por predefinição após exceder o tempo limite."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Aceitar pedido de localização? Criador do pedido: %s, cliente: %s. Rejeitado "
+"por predefinição após exceder o tempo limite."
+
+msgid "loca_nc_request_no_default"
+msgstr "Aceitar pedido de localização? Criador do pedido: %s, cliente: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Activar GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Activar posição com base no GPS e na rede?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Activar posição com base na rede?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Não foi possível aceitar o pedido"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Pedido de rede aceite em seu nome. A localização foi enviada para o criador "
+"do pedido: %s, cliente: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Não foi possível rejeitar o pedido"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Pedido de rede rejeitado em seu nome. A localização não foi enviada para o "
+"criador do pedido: %s, cliente: %s"
+
+msgid "loca_ni_req_sent"
+msgstr ""
+"A rede enviou a sua localização para o criador do pedido %s, cliente %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "AVISO E RENÚNCIA"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Localização"
+
+msgid "loca_ti_services"
+msgstr "Posicionamento da rede"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Activar posicionamento?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "A pesquisar"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Precisão grosseira"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Precisão fina"
+
+msgid "loca_va_unknown"
+msgstr "Desconhecido"
+
+msgid "loca_va_unknown_device"
+msgstr "Dispositivo desconhecido"

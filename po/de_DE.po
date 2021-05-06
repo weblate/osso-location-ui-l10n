@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Annehmen"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Ablehnen"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Neues Gerät koppeln"
+
+msgid "loca_fi_device"
+msgstr "GPS-Gerät"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Dieses Gerät ermöglicht die Positionierung und die Verwendung "
+"standortbasierter Funktionen und/oder Dienste für die Positionierung "
+"mithilfe des Mobilfunknetzes und GPS.\n"
+"\n"
+"Positionierungs- und/oder standortbasierte Dienste und deren Genauigkeit "
+"sind, unter anderem, von der Verfügbarkeit von Mobilfunknetzen und "
+"Satellitensystemen abhängig. Diese sind möglicherweise nicht überall und "
+"jederzeit verfügbar. Zudem kann die digitale Kartografie ungenau sein. "
+"Verlassen Sie sich, etwa bei wichtigen Kommunikationen wie Notrufen, niemals "
+"ausschließlich auf diese Funktionen.\n"
+"\n"
+" Positionierungs- und standortbasierte Dienste und deren Inhalte sind nur "
+"für die nichtkommerzielle Nutzung vorgesehen. Bei der Verwendung der "
+"standortbasierten Dienste bzw. von deren Inhalten kann es zur Übertragung "
+"großer Datenmengen über das Netzwerk Ihres Dienstanbieters kommen. Wenden "
+"Sie sich an Ihren Dienstanbieter, um weitere Informationen über Gebühren für "
+"die Datenübertragung zu erhalten.\n"
+"\n"
+"Achten Sie auf die dienstspezifischen Hinweise, die wertvolle "
+"Zusatzinformationen über die Positionierungs- und/oder standortbasierten "
+"Dienste enthalten.\n"
+"\n"
+"In dem durch geltendes Recht weitestgestatteten Umfang übernehmen weder die "
+"Nokia Corporation noch deren Tochterunternehmen und Lizenzgeber eine Haftung "
+"für Schäden, die infolge der Nutzung der Positionierungs- und "
+"standortbasierten Dienste bzw. von deren Inhalten entstehen."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Aktivieren"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Aktivieren"
+
+msgid "loca_fi_location_server"
+msgstr "Standortserver"
+
+msgid "loca_fi_network"
+msgstr "Netzpositionierung"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Standort"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Benutzerdefinierter Standortserver kann nicht kontaktiert werden. "
+"Stattdessen wird \"%s\" verwendet."
+
+msgid "loca_in_no_data"
+msgstr "Download von Kartendaten nicht möglich"
+
+msgid "loca_in_no_fix"
+msgstr "GPS-Verbindung kann nicht hergestellt werden"
+
+msgid "loca_li_device_internal"
+msgstr "Internes GPS"
+
+msgid "loca_li_device_none"
+msgstr "Keine"
+
+msgid "loca_me_location_home_applet"
+msgstr "Standort"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Die Bluetooth-GPS-Verbindung wurde unterbrochen. Erneut verbinden?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Standortanfrage annehmen? Anfrager: %s, Client: %s. Nach Zeitüberschreitung "
+"standardmäßig angenommen."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Standortanfrage annehmen? Anfrager: %s, Client: %s. Nach Zeitüberschreitung "
+"standardmäßig abgewiesen."
+
+msgid "loca_nc_request_no_default"
+msgstr "Standortanfrage annehmen? Anfrager: %s, Client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "GPS aktivieren?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "GPS und netzbasierte Positionierung aktivieren?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Netzbasierte Positionierung aktivieren?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Anfrage kann nicht angenommen werden"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Das Netz hat die Anfrage für Sie angenommen. Ihr Standort wurde an Anfrager "
+"\"%s\", Client \"%s\" gesendet."
+
+msgid "loca_ni_reject_expired"
+msgstr "Anfrage kann nicht abgewiesen werden"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Das Netz hat die Anfrage für Sie abgewiesen. Ihr Standort wurde nicht an "
+"Anfrager \"%s\", Client \"%s\" gesendet."
+
+msgid "loca_ni_req_sent"
+msgstr ""
+"Das Netz hat Ihren Standort an Anfrager \"%s\", Client \"%s\" gesendet."
+
+msgid "loca_ti_disclaimer"
+msgstr "HINWEIS UND HAFTUNGSAUSSCHLUSS"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Standort"
+
+msgid "loca_ti_services"
+msgstr "Netzpositionierung"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Positionierung aktivieren?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Suche läuft"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Grobe Genauigkeit"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Detailgenauigkeit"
+
+msgid "loca_va_unknown"
+msgstr "Unbekannt"
+
+msgid "loca_va_unknown_device"
+msgstr "Unbekanntes Gerät"

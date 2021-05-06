@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Akceptuj"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Odrzuć"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Powiąż z nowym urządzeniem"
+
+msgid "loca_fi_device"
+msgstr "Urządzenie GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Niniejsze urządzenie umożliwia lokalizowanie obiektów oraz korzystanie z "
+"funkcji opartych na lokalizacji i/lub usługach realizowanych z zastosowaniem "
+"lokalizacji za pomocą sieci komórkowej oraz GPS.\n"
+"\n"
+"Lokalizowanie obiektów i/lub usługi oparte na lokalizacji oraz ich "
+"dokładność zależą między innymi od dostępności sieci bezprzewodowej oraz "
+"systemów satelitarnych. Mogą być one niedostępne w niektórych obszarach lub "
+"w określonym czasie. Ponadto mapy cyfrowe mogą być niedokładne. W celach "
+"komunikacji, np. w sytuacjach kryzysowych, nigdy nie należy polegać jedynie "
+"na dostępnych funkcjach urządzenia.\n"
+"\n"
+" Lokalizowanie obiektów i/lub usługi oparte na lokalizacji są przeznaczone "
+"do użytku wyłącznie w celach niekomercyjnych. Korzystanie z usług "
+"lokalizacyjnych i ich zawartości może obejmować przesyłanie znacznych ilości "
+"danych przez sieć operatora telefonii komórkowej. Informacje dotyczące opłat "
+"za przesył danych można uzyskać u operatora.\n"
+"\n"
+"Należy uważnie zapoznawać się z treścią oświadczeń dotyczących "
+"poszczególnych usług, ponieważ zawarto w nich dodatkowe ważne informacje na "
+"temat lokalizacji obiektów i/lub usług opartych na lokalizacji.\n"
+"\n"
+"Firma Nokia Corporation, jej podmioty zależne oraz licencjodawcy niniejszym "
+"zrzekają się wszelkiej odpowiedzialności wynikającej z korzystania z funkcji "
+"lokalizacji i/lub usług opartych na lokalizacji oraz ich zawartości w "
+"maksymalnym zakresie dopuszczalnym przez obowiązujące prawo."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Włącz"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Włącz"
+
+msgid "loca_fi_location_server"
+msgstr "Serwer lokalizacji"
+
+msgid "loca_fi_network"
+msgstr "Lokalizacja w sieci komórkowej"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Lokalizacja"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Nie można połączyć się z serwerem lokalizacji wskazanym przez użytkownika. "
+"Użyto %s."
+
+msgid "loca_in_no_data"
+msgstr "Nie można pobrać danych mapy"
+
+msgid "loca_in_no_fix"
+msgstr "Nie można uzyskać pozycji GPS"
+
+msgid "loca_li_device_internal"
+msgstr "Wewnętrzny GPS"
+
+msgid "loca_li_device_none"
+msgstr "Brak"
+
+msgid "loca_me_location_home_applet"
+msgstr "Lokalizacja"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Połączenie GPS przez Bluetooth utracone. Połączyć ponownie?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Przyjąć żądanie podania lokalizacji? Żądający: %s, klient: %s. Akceptacja "
+"domyślna po upływie limitu czasowego."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Przyjąć żądanie podania lokalizacji? Żądający: %s, klient: %s. Odrzucenie "
+"domyślne po upływie limitu czasowego."
+
+msgid "loca_nc_request_no_default"
+msgstr "Przyjąć żądanie podania lokalizacji? Żądający: %s, klient: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Włączyć GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Włączyć GPS i lokalizację w sieci komórkowej?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Włączyć lokalizację w sieci komórkowej?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Nie można przyjąć żądania"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Sieć przyjęła żądanie w imieniu użytkownika. Dane lokalizacji zostały "
+"wysłane do żądającego: %s, klienta: %s."
+
+msgid "loca_ni_reject_expired"
+msgstr "Nie można odrzucić żądania"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Sieć odrzuciła żądanie w imieniu użytkownika. Dane lokalizacji nie zostały "
+"wysłane do żądającego: %s, klienta: %s."
+
+msgid "loca_ni_req_sent"
+msgstr "Sieć wysłała dane lokalizacji do żądającego: %s, klienta: %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "OŚWIADCZENIE I WYŁĄCZENIE ODPOWIEDZIALNOŚCI"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Lokalizacja"
+
+msgid "loca_ti_services"
+msgstr "Lokalizacja w sieci komórkowej"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Włączyć lokalizację w sieci komórkowej?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Wyszukiwanie"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Standardowe"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Szczegółowe"
+
+msgid "loca_va_unknown"
+msgstr "Nieznane"
+
+msgid "loca_va_unknown_device"
+msgstr "Nieznane urządzenie"

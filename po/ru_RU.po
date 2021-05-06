@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Принять"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Отклонить"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Связать с новым устройством"
+
+msgid "loca_fi_device"
+msgstr "Устройство GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Данное устройство обеспечивает позиционирование и использование функций и/"
+"или сервисов на основе данных местоположения с помощью сотовых сетей и "
+"системы GPS.\n"
+"\n"
+"Позиционирование и/или использование сервисов на основе данных "
+"местоположения, а также точность их работы, помимо прочего, определяются "
+"доступностью беспроводных сетей и спутниковых систем. Они могут "
+"отсутствовать в некоторых местах или в определенные периоды. Кроме того, "
+"цифровые карты могут содержать ошибки. Никогда не следует полагаться только "
+"на эти функции для передачи или получения важной информации, например, для "
+"экстренных вызовов.\n"
+"\n"
+" Позиционирование и сервисы на основе данных местоположения, а также их "
+"содержимое, предназначены только для некоммерческого применения. "
+"Использование сервисов на основе данных местоположения и их содержимого "
+"может включать передачу больших объемов данных через сеть вашего поставщика "
+"услуг. Сведения о стоимости передачи данных можно получить у поставщика "
+"сетевых услуг.\n"
+"\n"
+"Внимательно прочтите уведомления об услугах, где содержатся важные "
+"дополнительные сведения относительно позиционирования и/или использования "
+"сервисов на основе данных местоположения.\n"
+"\n"
+"Корпорация Nokia Corporation, ее филиалы и держатели лицензий в максимально "
+"допустимой соответствующим законодательством степени не принимают никакой "
+"ответственности, связанной с использованием позиционирования и/или сервисов "
+"на основе данных местоположения или их содержимого."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Включить"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Включить"
+
+msgid "loca_fi_location_server"
+msgstr "Сервер местоположения"
+
+msgid "loca_fi_network"
+msgstr "Определение места через сеть"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Местоположение"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Не удается связаться с пользовательским сервером местоположения. "
+"Используется вместо этого: %s."
+
+msgid "loca_in_no_data"
+msgstr "Невозможно загрузить данные карты"
+
+msgid "loca_in_no_fix"
+msgstr "Не удается обеспечивать непрерывный прием сигналов GPS"
+
+msgid "loca_li_device_internal"
+msgstr "Внутренний GPS"
+
+msgid "loca_li_device_none"
+msgstr "Нет"
+
+msgid "loca_me_location_home_applet"
+msgstr "Местоположение"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Разорвано соединение Bluetooth GPS. Восстановить?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Принять запрос на местоположение? Запросчик: %s, клиент: %s. Принят по "
+"умолчанию после завершения периода ожидания."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Принять запрос на местоположение? Запросчик: %s, клиент: %s. Отклонен по "
+"умолчанию после завершения периода ожидания."
+
+msgid "loca_nc_request_no_default"
+msgstr "Принять запрос на местоположение? Запросчик: %s, клиент: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Включить GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Включить определение места через систему GPS и через сеть?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Включить определение места через сеть?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Не удалось принять запрос"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Сеть приняла запрос от вашего имени. Ваше местоположение было отправлено "
+"запросчику: %s, клиенту: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Не удалось отклонить запрос"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Сеть отклонила запрос от вашего имени. Ваше местоположение не было "
+"отправлено запросчику: %s, клиенту: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "Сеть отправила ваше местоположение запросчику %s, клиенту %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "УВЕДОМЛЕНИЕ И ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Местоположение"
+
+msgid "loca_ti_services"
+msgstr "Определение места через сеть"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Включить позиционирование?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Идет поиск"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Низкая точность"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Высокая точность"
+
+msgid "loca_va_unknown"
+msgstr "Неизвестно"
+
+msgid "loca_va_unknown_device"
+msgstr "Неизвестное устройство"

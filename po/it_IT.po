@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Accetta"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Rifiuta"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Associa nuovo dispositivo"
+
+msgid "loca_fi_device"
+msgstr "Dispositivo GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Questo dispositivo abilita il rilevamento della\n"
+" posizione e l'uso di funzioni e/o servizi basati sulla\n"
+" posizione tramite la localizzazione su rete mobile e\n"
+" GPS.\n"
+"\n"
+" Il rilevamento della posizione e/o i servizi basati\n"
+" sulla posizione e la relativa precisione dipendono, tra\n"
+"le altre cose, dalla disponibilità delle reti wireless\n"
+"e dei sistemi satellitari, che potrebbero non\n"
+" funzionare sempre in tutte le aree. Inoltre, la\n"
+"cartografia digitale potrebbe non essere precisa. Non\n"
+" affidarsi esclusivamente a nessuna di tali funzioni, ad\n"
+"esempio per le comunicazioni essenziali come le\n"
+" chiamate di emergenza.\n"
+"Il rilevamento della posizione e i servizi basati sulla\n"
+"posizione e i relativi contenuti sono destinati\n"
+"esclusivamente a un uso non commerciale. L'uso dei\n"
+"servizi basati sulla posizione e i relativi contenuti\n"
+"può comportare la trasmissione di grandi quantità di\n"
+" dati dalla rete del proprio provider del servizio.\n"
+"Contattare il provider del servizio per informazioni\n"
+"sugli addebiti relativi alla trasmissione di dati.\n"
+"\n"
+"Tenere in considerazione gli avvisi specifici sui\n"
+"servizi che includono ulteriori utili informazioni sul\n"
+" rilevamento della posizione e/o i servizi basati sulla\n"
+"posizione.\n"
+"\n"
+"Nella misura massima consentita dalle leggi vigenti,\n"
+" Nokia Corporation, le società affiliate e i licenziatari\n"
+"non potranno essere ritenuti responsabili per\n"
+"qualsivoglia utilizzo del posizionamento e/o di un\n"
+"servizio basato sulla posizione e relativi contenuti."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Attiva"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Attiva"
+
+msgid "loca_fi_location_server"
+msgstr "Server di posizione"
+
+msgid "loca_fi_network"
+msgstr "Posizione rete"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Posizione"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Impossibile contattare il server di posizionamento definito dall'utente. Uso "
+"%s."
+
+msgid "loca_in_no_data"
+msgstr "Impossibile scaricare i dati della mappa"
+
+msgid "loca_in_no_fix"
+msgstr "Impossibile connettersi a GPS"
+
+msgid "loca_li_device_internal"
+msgstr "GPS interno"
+
+msgid "loca_li_device_none"
+msgstr "Nessuna"
+
+msgid "loca_me_location_home_applet"
+msgstr "Posizionamento GPS"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Connessione GPS Bluetooth interrotta. Riprovare?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Accettare richiesta posizione? Richiedente: %s, client: %s. Accettato "
+"automaticamente dopo timeout."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Inviare le proprie coordinate GPS? Richiedente: %s, client: %s. Rifiutato "
+"automaticamente dopo timeout."
+
+msgid "loca_nc_request_no_default"
+msgstr "Accettare la richiesta di posizione? Richiedente: %s, client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Attivare il GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Attivare GPS e posizionamento tramite la rete?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Attivare il posizionamento tramite la rete?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Impossibile accettare la richiesta"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"La rete ha accettato la richiesta dell'utente. La posizione è stata inviata "
+"al richiedente: %s, client: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Impossibile rifiutare la richiesta"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"La rete ha rifiutato la richiesta per conto dell'utente. La posizione non è "
+"stata inviata al richiedente: %s, client: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "La rete ha inviato la tua posizione al richiedente %s, client %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "Avviso e dichiarazione di non responsabilità"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Posizionamento GPS"
+
+msgid "loca_ti_services"
+msgstr "Posizione rete"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Attivare il posizionamento?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Ricerca in corso"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Dato approssimativo"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Dato preciso"
+
+msgid "loca_va_unknown"
+msgstr "Sconosciuto"
+
+msgid "loca_va_unknown_device"
+msgstr "Dispositivo sconosciuto"
