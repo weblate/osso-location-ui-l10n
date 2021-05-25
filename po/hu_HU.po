@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-02-06 03:11-0000\n"
+"Last-Translator: Notari David <notaridavid@hotmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Elfogad"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Elutasít"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Új eszköz párosítása"
+
+msgid "loca_fi_device"
+msgstr "GPS eszköz"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Ez az eszköz megengedi a helymeghatározást és a hely-alapú szolgáltatásokat, ehhez hálozat-alapú helymeghatározást vagy GPS-t használ.\n"
+"\n"
+"A helymeghatározás és/vagy a hely-alapú szolgáltatások pontosságát egyéb tárgyak, vezeték nélküli hálozatok és műhold rendszerek elérhetősége befolyásolhatják.  Ezek nem mindig és nem mindenhol működhetnek helyesen.Továbbá a digitális térképek pontatlanok lehetnek. Soha ne hagyatkozz kizárólag ezen eszközök információjára, pl: vészhelyzetben való kommunikáció.\n"
+"\n"
+" A helymeghatározás és a hely-alapú szolgáltatások valamint ezek tartalma nem üzleti célra készültek. Hely-alapú szolgáltatások használata és azok tartalma nagyobb adatforgalmat generálhat szolgáltatódon keresztül. Adatátviteli díj információért lépj kapcsoltba szolgáltatóddal.\n"
+"\n"
+"Please pay attention to the service-specific notices that include additional valuable information with respect to the positioning and/or location-based services.\n"
+"\n"
+"To the maximum extent permitted by applicable law, Nokia Corporation, its subsidiaries and licensors hereby disclaim all liability arising out of any use of the positioning and/or any available location-based service and their contents."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Bekapcsolva"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Bekapcsolva"
+
+msgid "loca_fi_location_server"
+msgstr "Helymeghatározó szerver"
+
+msgid "loca_fi_network"
+msgstr "Hálózat-alapú pozícionálás"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Hely"
+
+msgid "loca_in_default_supl_used"
+msgstr "Nem lehet a felhasználó által definiált helymeghatározó szerverhez kapcsolódni. Használatban %s."
+
+msgid "loca_in_no_data"
+msgstr "Térkép adatok letöltése nem lehetséges"
+
+msgid "loca_in_no_fix"
+msgstr "GPS műholdak meghatározása sikertelen"
+
+msgid "loca_li_device_internal"
+msgstr "Belső GPS"
+
+msgid "loca_li_device_none"
+msgstr "Nincs"
+
+msgid "loca_me_location_home_applet"
+msgstr "Hely"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Bluetooth GPS kapcsolat megszakadt. Újra csatlakozik?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "Elfogadja a helyzet kérelmet? Kérelmező: %s, client: %s. Idő túllépés estén alapértelmezett: Elfogadva"
+
+msgid "loca_nc_request_default_reject"
+msgstr "Elfogadja a helyzet kérelmet? Kérelmező: %s, client: %s. Idő túllépés esetén alapértelemezett: Visszautasítva"
+
+msgid "loca_nc_request_no_default"
+msgstr "Elfogadja a helyzet kérelmet? Kérelmező: %s, client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Bekacsolja a GPS-t?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Bekapcsolja a GPS-t és a hálozat alapú helymeghatározást?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Bekapcsolja a hálozat alapú helymeghatározást?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Kérelem nem elfogadható"
+
+msgid "loca_ni_accepted"
+msgstr "A Hálozat elfogadta a kérelmed. Helyzeted el lett küldve a kérelmezőnek : %s, client: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "A kérelem visszautasítása nem engedélyezett"
+
+msgid "loca_ni_rejected"
+msgstr "A hálozat nem fogadta el a kérelemed. Helyzeted nem lett elküldve a kérelmezőnek: %s, client: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "A hálozat elküldte a helyzeted a kérelmezőnek %s, client %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "FIGYELMEZTETÉSEK ÉS JOGI NYILATKOZAT"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Hely"
+
+msgid "loca_ti_services"
+msgstr "Hálozat-alpú helymeghatározás"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Bekapcsolja a helymeghatározást"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Keresés"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Durva pontosság"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Kiváló pontosság"
+
+msgid "loca_va_unknown"
+msgstr "Ismeretlen"
+
+msgid "loca_va_unknown_device"
+msgstr "Ismeretlen eszköz"
+
