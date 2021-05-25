@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-location-ui 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009-10-23 09:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Prijať"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Odmietnuť"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Spárovať nové zariadenie"
+
+msgid "loca_fi_device"
+msgstr "Zariadenie GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr ""
+"Toto zariadenie umožňuje určiť polohu a používať\n"
+"funkcie alebo služby súvisiace so zistením\n"
+"polohy pomocou GPS a funkcie zistenia polohy\n"
+"v celulárnej sieti.\n"
+"\n"
+"Presnosť a dostupnosť funkcií a služieb\n"
+"súvisiacich so zistením polohy závisí mimo\n"
+"iné na dostupnosti bezdrôtových sietí\n"
+"a satelitných systémov. Nemusí byť funkčná vždy\n"
+"a vo všetkých oblastiach. Okrem toho môže byť\n"
+"nepresná taktiež digitálna kartografie. Nikdy sa\n"
+"nespoliehajte výhradne na tieto funkcie,\n"
+"napríklad pri komunikácií v tiesni.\n"
+"\n"
+"Funkcie a služby súvisiace so zistením\n"
+"polohy a ich obsah sú určené len pre\n"
+"nekomerčné využitie. Použitie služieb\n"
+"súvisiacich so zistením polohy a ich\n"
+"obsahu môže zahrňovať prenos veľkého množstva\n"
+"dát v sieti vašho poskytovateľa. Informácie\n"
+"o poplatkoch za prenos dát získate u svojho\n"
+"poskytovateľa služieb.\n"
+"\n"
+"Venujte prosím pozornosť upozorneniam\n"
+"súvisiacim s týmito službami, ktoré obsahujú\n"
+"cenné doplnkové informácie o určovaní polohy\n"
+"a súvisiacich službách.\n"
+"\n"
+"Spoločnosť Nokia Corporation, jej dcérske\n"
+"spoločnosti a poskytovatelia licencií týmto\n"
+"odmietajú všetku zodpovednosť vyplývajúcu\n"
+"z použitia funkcií a služieb určovania polohy alebo\n"
+"akýchkoľvek služieb súvisiacich so zistením\n"
+"polohy a ich obsahu."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Zapnuté"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Zapnuté"
+
+msgid "loca_fi_location_server"
+msgstr "Server pre určenie polohy"
+
+msgid "loca_fi_network"
+msgstr "Zistenie polohy v sieti"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Poloha"
+
+msgid "loca_in_default_supl_used"
+msgstr ""
+"Nemožno kontaktovať užívateľom definovaný server pre určenie polohy. Bude "
+"použitý %s."
+
+msgid "loca_in_no_data"
+msgstr "Nemožno stiahnuť mapová dáta"
+
+msgid "loca_in_no_fix"
+msgstr "Nemožno dosiahnuť fixácie GPS"
+
+msgid "loca_li_device_internal"
+msgstr "Interné GPS"
+
+msgid "loca_li_device_none"
+msgstr "Žiadne"
+
+msgid "loca_me_location_home_applet"
+msgstr "Poloha"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Spojenie k Bluetooth zariadeniu GPS bolo stratené. Pripojiť znova?"
+
+msgid "loca_nc_request_default_accept"
+msgstr ""
+"Prijať požiadavku na zistenie polohy? Žiadateľ: %s, klient: %s. Bude prijaté "
+"automaticky po vypršaní časového limitu."
+
+msgid "loca_nc_request_default_reject"
+msgstr ""
+"Prijať požiadavku na zistenie polohy? Žiadateľ: %s, klient: %s. Bude "
+"odmietnuté automaticky po vypršaní časového limitu."
+
+msgid "loca_nc_request_no_default"
+msgstr "Prijať požiadavku na určenie polohy? Žiadateľ: %s, klient: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Zapnúť GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Zapnúť GPS a zistenie polohy v sieti?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Zapnúť zistenie polohy v sieti?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Požiadavku nemožno prijať"
+
+msgid "loca_ni_accepted"
+msgstr ""
+"Sieť prijala vašu požiadavku. Vaša poloha bola odoslaná žiadateľovi: %s, "
+"klient: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Požiadavku nemožno odmietnuť"
+
+msgid "loca_ni_rejected"
+msgstr ""
+"Sieť odmietla vašu požiadavku. Vaša poloha nebola odoslaná žiadateľovi: %s, "
+"klient: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "Sieť odoslala vašu polohu žiadateľovi: %s, klient: %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "UPOZORNENIE A ODMIETNUTIE ZODPOVEDNOSTI"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Poloha"
+
+msgid "loca_ti_services"
+msgstr "Zistenie polohy v sieti"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Zapnúť zistenie polohy?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Hľadanie"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Hrubá presnosť"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Jemná presnosť"
+
+msgid "loca_va_unknown"
+msgstr "Neznámy"
+
+msgid "loca_va_unknown_device"
+msgstr "Neznáme zariadenie"
