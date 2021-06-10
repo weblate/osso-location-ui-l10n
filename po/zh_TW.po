@@ -1,0 +1,132 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "接受"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "拒絕"
+
+msgid "loca_bv_pair_new_device"
+msgstr "配對新裝置"
+
+msgid "loca_fi_device"
+msgstr "GPS 裝置"
+
+msgid "loca_fi_disclaimer"
+msgstr "This device enables positioning and use of location-based features and/or services by using the cellular network positioning and GPS.\n\nPositioning and/or location-based services and their accuracy are dependent, among other things, on availability of wireless networks and satellite systems. They may not function in all areas or at all times. Furthermore, digital cartography can be inaccurate. Never rely solely on any of these features, e.g. for essential communications like emergencies.\n\n Positioning and location-based services and their contents are intended for non-commercial use only. Using the location-based services and its contents may involve the transmission of large amounts of data through your service provider’s network. Contact your service provider for information about data transmission charges.\n\nPlease pay attention to the service-specific notices that include additional valuable information with respect to the positioning and/or location-based services.\n\nTo the maximum extent permitted"
+
+msgid "loca_fi_enable_network_posit"
+msgstr "啟用"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "啟用"
+
+msgid "loca_fi_location_server"
+msgstr "位置服務伺服器"
+
+msgid "loca_fi_network"
+msgstr "網路位置"
+
+msgid "loca_fi_status_menu_location"
+msgstr "位置"
+
+msgid "loca_in_default_supl_used"
+msgstr "無法與用戶自訂定位伺服器。使用 %s 代替."
+
+msgid "loca_in_no_data"
+msgstr "無法下載地圖資料"
+
+msgid "loca_in_no_fix"
+msgstr "無法獲得GPS定位"
+
+msgid "loca_li_device_internal"
+msgstr "內建GPS"
+
+msgid "loca_li_device_none"
+msgstr "無"
+
+msgid "loca_me_location_home_applet"
+msgstr "位置"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "藍牙GPS連線遺失。嘗試重新連線?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "接受位置資訊請求? 請求者: %s, 客戶端: %s. 逾時後接受預設."
+
+msgid "loca_nc_request_default_reject"
+msgstr "接受位置資訊請求? 請求者: %s,客戶端: %s. 逾時後拒絕預設."
+
+msgid "loca_nc_request_no_default"
+msgstr "接受位置資訊請求? 請求者: %s, 客戶端: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "啟用內建GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "使用GPS和網路架構定位?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "使用網路架構定位?"
+
+msgid "loca_ni_accept_expired"
+msgstr "無法接受的要求"
+
+msgid "loca_ni_accepted"
+msgstr "網路接受經您授權的請求.您的位置資訊被送往請求者: %s, 客戶端: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "無法拒絕的要求"
+
+msgid "loca_ni_rejected"
+msgstr "網路拒絕未經您授權的請求。您的位置資訊不會發送給請求者: %s, 客戶端: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "網路已傳送您的位置資訊給請求者 %s, 客戶端 %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "公告及免責聲明"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "定位 (GPS)"
+
+msgid "loca_ti_services"
+msgstr "網路架構定位"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "使用定位？"
+
+msgid "loca_va_status_menu_searching"
+msgstr "搜尋"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "低準確度"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "高準確度"
+
+msgid "loca_va_unknown"
+msgstr "未知"
+
+msgid "loca_va_unknown_device"
+msgstr "未知裝置"
