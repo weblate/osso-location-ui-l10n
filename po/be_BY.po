@@ -1,0 +1,133 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-05-27 14:23+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Прыняць"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Адхіліць"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Сінхранізавацца з новым дэвайсам"
+
+msgid "loca_fi_device"
+msgstr "Дэвайс GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr "Гэты дэвайс дазваляе пазіцыянаванне, а таксама выкарыстанне пазіцыйна-арыентаваных функцый і/або паслуг з выкарыстаннем сотавага пазіцыянавання і GPS.\n\nПазіцыянаванне і/або пазіцыйна-арыентаваныя паслугі і іх дакладнасць залежаць, сярод іншага, ад наяўнасці бесправадных сетак і спадарожнікавых сістэм. Яны не могуць працаваць ва ўсіх абласцях і ва ўсе часы. Акрамя таго, лічбавая картаграфія можа быць недакладнай. Не варта спадзявацца выключна на любую з гэтых функцый, напрыклад, для асабліва важных злучэнняў, як надзвычайныя сітуацыі.\n\n Пазіцыянаванне і пазіцыйна-арыентаваныя паслугі і іх змест прызначаны для некамерцыйнага выкарыстання. Выкарыстанне пазіцыйна-арыентаваных паслуг і іхняга зместу можа прывесці да перадачы вялікіх аб'ёмаў дадзеных праз сетку пастаўшчыка паслуг. Звярніцеся да пастаўшчыка паслуг для атрымання інфармацыі аб тарыфах за перадачу дадзеных.\n\nКалі ласка, звярніце ўвагу на канкрэтныя апавяшчэнні сэрвісу, які змяшчае дадатковую каштоўную інфармацыю, звязаную з пазіцыянаваннем і/або пазіцыйна-арыентаванымі паслугамі.\n\nУ максімальнай ступені, дапушчальнай дзеючым заканадаўствам, Nokia Corporation, яе даччыныя кампаніі і ліцэнзіяры адхіляюць любыя абавязацельствы, якiя вынiкаюць з любога выкарыстання пазіцыянавання і/або пазіцыйна-арыентаваных паслуг і іх зместа."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Уключыць"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Уключыць"
+
+msgid "loca_fi_location_server"
+msgstr "Сервер размяшчэння"
+
+msgid "loca_fi_network"
+msgstr "Пазіцыянаванне сеткі"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Размяшчэнне"
+
+msgid "loca_in_default_supl_used"
+msgstr "Немагчыма звязацца з серверам, вызначаным карыстальныкам. Выкарыставанне %s замест гэтага."
+
+msgid "loca_in_no_data"
+msgstr "Немагчыма запампаваць дадзеныя мапы"
+
+msgid "loca_in_no_fix"
+msgstr "Немагчыма атрымаць выпраўленні GPS"
+
+msgid "loca_li_device_internal"
+msgstr "Унутраны GPS"
+
+msgid "loca_li_device_none"
+msgstr "Няма"
+
+msgid "loca_me_location_home_applet"
+msgstr "Размяшчэнне"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Bluetooth GPS падлучэнне страчана. Паспрабаваць перападлучыцца?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "Прыняць заяўку на пазіцыяванне? Заяўнік: %s, кліент: %s. Прынята па змаўчанні пасля тайм-аўту."
+
+msgid "loca_nc_request_default_reject"
+msgstr "Прыняць заяўку на пазіцыяванне? Заяўнік: %s, кліент: %s. Адхілена па змаўчанні пасля тайм-аўту."
+
+msgid "loca_nc_request_no_default"
+msgstr "Прыняць заяўку на пазіцыяванне? Заяўнік: %s, кліент: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Уключыць GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Уключыць GPS і сеціўна-арыентаванае пазіцыянаванне?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Уключыць сеціўна-арыентаванае пазіцыянаванне?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Немагчыма прыняць запыт"
+
+msgid "loca_ni_accepted"
+msgstr "Сетка прыняла запыт ад вашага імя. Ваша месцазнаходжанне было накіравана заяўніку: %s, кліенту: %s."
+
+msgid "loca_ni_reject_expired"
+msgstr "Немагчыма адхіліць запыт"
+
+msgid "loca_ni_rejected"
+msgstr "Сетка адхіліла запыт ад вашага імя. Ваша месцазнаходжанне было накіравана \nзаяўніку: %s, кліенту: %s."
+
+msgid "loca_ni_req_sent"
+msgstr "Сетка адхіліла запыт ад вашага імя. Ваша месцазнаходжанне было накіравана заяўніку: %s, кліенту: %s."
+
+msgid "loca_ti_disclaimer"
+msgstr "Сетка даслала вашае знаходжанне да заяўніка %s, кліента %s"
+
+msgid "loca_ti_general"
+msgstr "ЗАЎВАГІ І АГУЛЬНЫЯ ПАЛАЖЭННІ"
+
+msgid "loca_ti_location_cpa"
+msgstr "\tGPS"
+
+msgid "loca_ti_services"
+msgstr "Знаходжанне"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Сеткавае пазіцыянаванне"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Уключыць пазіцыянаванне?"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Пошук"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Грубая дакладнасць"
+
+msgid "loca_va_unknown"
+msgstr "Невядома"
+
+msgid "loca_va_unknown_device"
+msgstr "Невядомы дэвайс"
