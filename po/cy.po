@@ -1,0 +1,133 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-02-07 10:36+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Derbyn"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Gwrthod"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Paru dyfais newydd"
+
+msgid "loca_fi_device"
+msgstr "Dyfais GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr "Mae'r dyfais yma'n galluogi lleoli a defnydd o adweddau a/neu gwasanaethau lleoliad-benodol drwy ddefnyddio lleoli rhwydwaith cell a GPS. Mae gwasanaethau lleoli a lleoliad-benodol a'u cywirdeb yn ddibynnol ar argaeledd rhwydweithiau di-wifr a systemau lloeren, ymysg pethau eraill. Nid ydynt yn sicr a weithredu bob amser nac ymhob man. Mwyach, gall mapio ddigidol fod yn wallus. Peidiwch â dibynnu ar rhain yn unig ar gyfer cyfathrebu hanfodol fel argyfyngau. Mae gwasanaethau lleoli a lleoliad-benodol a'u cynnwys wedi eu dylunio at ddefnydd ddefnydd anfasnachol yn unig. Gall y defnydd o wasanaethau lleoliad-benodol a'u cynnwys arwain at ddarllediad o symiau sylweddol o ddata drwy rwydwaith eich cyflenwr gwasanaeth. Cysylltwch a'ch cyflenwr gwasanaeth am wybodaeth am gostau darlledu data. Nodwch y hysbysebion gwasanaeth-benodol sy'n cynnwys gwybodaeth bellach yn ymwneud a'r gwasanaethau lleoli a/neu lleoliad-benodol. I'r ystod mwyaf a ganiateir gan y gyfraith berthnasol, mae Nokia Corporation, ei is-gwmnïau, a'i trwyddedwyr drwy hyn yn gwadu pob atebolrwydd a all godi o unrhyw ddefnydd o'r gwasanaeth lleoli a/neu unrhyw wasanaeth lleoliad-benodol a'u cynnwys."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Galluogi"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Galluogi"
+
+msgid "loca_fi_location_server"
+msgstr "Gweinydd lleoli"
+
+msgid "loca_fi_network"
+msgstr "Lleoli drwy'r rhwydwaith"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Lleoliad"
+
+msgid "loca_in_default_supl_used"
+msgstr "Methu cysylltu a'r gweinydd lleoliad a ddiffiniwyd gan y defnyddiwr. Yn defnyddio %s yn ei le."
+
+msgid "loca_in_no_data"
+msgstr "Methu llawrlwytho data map"
+
+msgid "loca_in_no_fix"
+msgstr "Methu pennu lleoliad GPS"
+
+msgid "loca_li_device_internal"
+msgstr "GPS mewnol"
+
+msgid "loca_li_device_none"
+msgstr "Dim"
+
+msgid "loca_me_location_home_applet"
+msgstr "Lleoliad"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "Collwyd y cysylltiad i'r GPS Bluetooth. Ceisio ailgysylltu?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "Derbyn cais lleoliad? Ymgeisydd: %s, gwestai: %s. Fe'i dderbynnir os ni roddir ateb."
+
+msgid "loca_nc_request_default_reject"
+msgstr "Derbyn cais lleoliad? Ymgeisydd: %s, gwestai: %s. Fe'i gwrthodir os ni roddir ateb."
+
+msgid "loca_nc_request_no_default"
+msgstr "Derbyn cais lleoliad? Ymgeisydd: %s, gwestai: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "Galluogi GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "Galluogi GPS a lleoli drwy'r rhwydwaith?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "Galluogi lleoli drwy'r rhwydwaith?"
+
+msgid "loca_ni_accept_expired"
+msgstr "Methu derbyn y cais"
+
+msgid "loca_ni_accepted"
+msgstr "Fe dderbyniwyd y cais ar eich rhan gan y rhwydwaith. Gyrrwyd eich lleoliad i'r ymgeisydd: %s, gwestai %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "Methu gwrthod y cais"
+
+msgid "loca_ni_rejected"
+msgstr "Fe wrthodwyd y cais ar eich rhan gan y rhwydwaith. Ni yrrwyd eich lleoliad i'r ymgeisydd: %s, gwestai %s"
+
+msgid "loca_ni_req_sent"
+msgstr "Gyrrwyd eich lleoliad gan y rhwydwaith i'r ymgeisydd %s, gwestai %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "RHYBUDD AC YMWADIAD"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Lleoliad"
+
+msgid "loca_ti_services"
+msgstr "Lleoli drwy'r rhwydwaith"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "Galluogi lleoli?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "Yn chwilio"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Manylder bras"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Manylder uchel"
+
+msgid "loca_va_unknown"
+msgstr "Anhysbys"
+
+msgid "loca_va_unknown_device"
+msgstr "Dyfais anhysbys"
