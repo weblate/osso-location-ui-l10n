@@ -9,18 +9,87 @@ Package: osso-location-ui-l10n-mr0
 Section: misc
 Architecture: all
 Provides: osso-location-ui-l10n-mr
-Depends: osso-location-ui-l10n-ruru, osso-location-ui-l10n-frfr, osso-location-ui-l10n-frca, osso-location-ui-l10n-dadk, osso-location-ui-l10n-itit, osso-location-ui-l10n-svse, osso-location-ui-l10n-nono, osso-location-ui-l10n-fifi, osso-location-ui-l10n-nlnl, osso-location-ui-l10n-enus, osso-location-ui-l10n-dede, osso-location-ui-l10n-esmx, osso-location-ui-l10n-eses, osso-location-ui-l10n-cscz, osso-location-ui-l10n-ptpt, osso-location-ui-l10n-engb, osso-location-ui-l10n-plpl
-Description: osso-location-ui marketing release package
- This is a metapackage for osso-location-ui to pull all the l10n packages.
- Application developers of osso-location-ui should depend on
+Depends:
+ osso-location-ui-l10n-zhtw,
+ osso-location-ui-l10n-zhhk,
+ osso-location-ui-l10n-zhcn,
+ osso-location-ui-l10n-ukua,
+ osso-location-ui-l10n-trtr,
+ osso-location-ui-l10n-svse,
+ osso-location-ui-l10n-sksk,
+ osso-location-ui-l10n-ruru,
+ osso-location-ui-l10n-roro,
+ osso-location-ui-l10n-ptpt,
+ osso-location-ui-l10n-plpl,
+ osso-location-ui-l10n-pa,
+ osso-location-ui-l10n-nono,
+ osso-location-ui-l10n-nlnl,
+ osso-location-ui-l10n-mymm,
+ osso-location-ui-l10n-lvlv,
+ osso-location-ui-l10n-ko,
+ osso-location-ui-l10n-km,
+ osso-location-ui-l10n-itit,
+ osso-location-ui-l10n-huhu,
+ osso-location-ui-l10n-heil,
+ osso-location-ui-l10n-frfr,
+ osso-location-ui-l10n-frca,
+ osso-location-ui-l10n-fifi,
+ osso-location-ui-l10n-fa,
+ osso-location-ui-l10n-etee,
+ osso-location-ui-l10n-esmx,
+ osso-location-ui-l10n-eses,
+ osso-location-ui-l10n-enus,
+ osso-location-ui-l10n-engb,
+ osso-location-ui-l10n-elgr,
+ osso-location-ui-l10n-dede,
+ osso-location-ui-l10n-dadk,
+ osso-location-ui-l10n-cy,
+ osso-location-ui-l10n-cscz,
+ osso-location-ui-l10n-caes,
+ osso-location-ui-l10n-bgbg,
+ osso-location-ui-l10n-beby,
+ osso-location-ui-l10n-ar,
+Description: osso-location-ui-l10n marketing release package
+ This is a metapackage for osso-location-ui-l10n to pull all the l10n packages.
+ Application developers of osso-location-ui-l10n should depend on
  "osso-location-ui-l10n-mr0 | osso-location-ui-l10n-mr"
  to ensure correct locales are getting installed.
+
+Package: osso-location-ui-l10n-ar
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (ar)
+ Language files for ar osso-location-ui.
+
+Package: osso-location-ui-l10n-beby
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (be_BY)
+ Language files for be_BY osso-location-ui.
+
+Package: osso-location-ui-l10n-bgbg
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (bg_BG)
+ Language files for bg_BG osso-location-ui.
+
+Package: osso-location-ui-l10n-caes
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (ca_ES)
+ Language files for ca_ES osso-location-ui.
 
 Package: osso-location-ui-l10n-cscz
 Section: misc
 Architecture: all
 Description: language files for osso-location-ui (cs_CZ)
  Language files for cs_CZ osso-location-ui.
+
+Package: osso-location-ui-l10n-cy
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (cy)
+ Language files for cy osso-location-ui.
 
 Package: osso-location-ui-l10n-dadk
 Section: misc
@@ -33,6 +102,12 @@ Section: misc
 Architecture: all
 Description: language files for osso-location-ui (de_DE)
  Language files for de_DE osso-location-ui.
+
+Package: osso-location-ui-l10n-elgr
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (el_GR)
+ Language files for el_GR osso-location-ui.
 
 Package: osso-location-ui-l10n-engb
 Section: misc
@@ -58,6 +133,18 @@ Architecture: all
 Description: language files for osso-location-ui (es_MX)
  Language files for es_MX osso-location-ui.
 
+Package: osso-location-ui-l10n-etee
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (et_EE)
+ Language files for et_EE osso-location-ui.
+
+Package: osso-location-ui-l10n-fa
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (fa)
+ Language files for fa osso-location-ui.
+
 Package: osso-location-ui-l10n-fifi
 Section: misc
 Architecture: all
@@ -76,11 +163,47 @@ Architecture: all
 Description: language files for osso-location-ui (fr_FR)
  Language files for fr_FR osso-location-ui.
 
+Package: osso-location-ui-l10n-heil
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (he_IL)
+ Language files for he_IL osso-location-ui.
+
+Package: osso-location-ui-l10n-huhu
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (hu_HU)
+ Language files for hu_HU osso-location-ui.
+
 Package: osso-location-ui-l10n-itit
 Section: misc
 Architecture: all
 Description: language files for osso-location-ui (it_IT)
  Language files for it_IT osso-location-ui.
+
+Package: osso-location-ui-l10n-km
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (km)
+ Language files for km osso-location-ui.
+
+Package: osso-location-ui-l10n-ko
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (ko)
+ Language files for ko osso-location-ui.
+
+Package: osso-location-ui-l10n-lvlv
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (lv_LV)
+ Language files for lv_LV osso-location-ui.
+
+Package: osso-location-ui-l10n-mymm
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (my_MM)
+ Language files for my_MM osso-location-ui.
 
 Package: osso-location-ui-l10n-nlnl
 Section: misc
@@ -94,6 +217,12 @@ Architecture: all
 Description: language files for osso-location-ui (no_NO)
  Language files for no_NO osso-location-ui.
 
+Package: osso-location-ui-l10n-pa
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (pa)
+ Language files for pa osso-location-ui.
+
 Package: osso-location-ui-l10n-plpl
 Section: misc
 Architecture: all
@@ -106,14 +235,56 @@ Architecture: all
 Description: language files for osso-location-ui (pt_PT)
  Language files for pt_PT osso-location-ui.
 
+Package: osso-location-ui-l10n-roro
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (ro_RO)
+ Language files for ro_RO osso-location-ui.
+
 Package: osso-location-ui-l10n-ruru
 Section: misc
 Architecture: all
 Description: language files for osso-location-ui (ru_RU)
  Language files for ru_RU osso-location-ui.
 
+Package: osso-location-ui-l10n-sksk
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (sk_SK)
+ Language files for sk_SK osso-location-ui.
+
 Package: osso-location-ui-l10n-svse
 Section: misc
 Architecture: all
 Description: language files for osso-location-ui (sv_SE)
  Language files for sv_SE osso-location-ui.
+
+Package: osso-location-ui-l10n-trtr
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (tr_TR)
+ Language files for tr_TR osso-location-ui.
+
+Package: osso-location-ui-l10n-ukua
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (uk_UA)
+ Language files for uk_UA osso-location-ui.
+
+Package: osso-location-ui-l10n-zhcn
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (zh_CN)
+ Language files for zh_CN osso-location-ui.
+
+Package: osso-location-ui-l10n-zhhk
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (zh_HK)
+ Language files for zh_HK osso-location-ui.
+
+Package: osso-location-ui-l10n-zhtw
+Section: misc
+Architecture: all
+Description: language files for osso-location-ui (zh_TW)
+ Language files for zh_TW osso-location-ui.
