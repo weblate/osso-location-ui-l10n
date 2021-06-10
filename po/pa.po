@@ -1,0 +1,132 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "ਮਨਜ਼ੂਰ"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "loca_bv_pair_new_device"
+msgstr "ਨਵੇਂ ਜੰਤਰ ਨਾਲ ਪੇਅਰ"
+
+msgid "loca_fi_device"
+msgstr "GPS ਜੰਤਰ"
+
+msgid "loca_fi_disclaimer"
+msgstr "This device enables positioning and use of location-based features and/or services by using the cellular network positioning and GPS.\n\nPositioning and/or location-based services and their accuracy are dependent, among other things, on availability of wireless networks and satellite systems. They may not function in all areas or at all times. Furthermore, digital cartography can be inaccurate. Never rely solely on any of these features, e.g. for essential communications like emergencies.\n\n Positioning and location-based services and their contents are intended for non-commercial use only. Using the location-based services and its contents may involve the transmission of large amounts of data through your service provider’s network. Contact your service provider for information about data transmission charges.\n\nPlease pay attention to the service-specific notices that include additional valuable information with respect to the positioning and/or location-based services.\n\nTo the maximum extent permitted by applicable law, Nokia Corporation, its subsidiaries and licensors hereby disclaim all liability arising out of any use of the positioning and/or any available location-based service and their contents."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "ਚਾਲੂ"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "ਚਾਲੂ"
+
+msgid "loca_fi_location_server"
+msgstr "ਟਿਕਾਣਾ ਸਰਵਰ"
+
+msgid "loca_fi_network"
+msgstr "ਨੈੱਟਵਰਕਿੰਗ ਸਥਿਤੀ"
+
+msgid "loca_fi_status_menu_location"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "loca_in_default_supl_used"
+msgstr "Unable to contact user-defined location server. Using %s instead."
+
+msgid "loca_in_no_data"
+msgstr "ਨਕਸ਼ੇ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "loca_in_no_fix"
+msgstr "GPS ਫਿਕਸ ਲੈਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "loca_li_device_internal"
+msgstr "ਅੰਦਰੂਨੀ GPS"
+
+msgid "loca_li_device_none"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+msgid "loca_me_location_home_applet"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "ਬਲਿਊਟੁੱਥ GPS ਕੁਨੈਕਸ਼ਨ ਖਤਮ ਹੋਇਆ। ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "Accept location request? Requester: %s, client: %s. Accepted by default after time-out."
+
+msgid "loca_nc_request_default_reject"
+msgstr "Accept location request? Requester: %s, client: %s. Rejected by default after time-out."
+
+msgid "loca_nc_request_no_default"
+msgstr "Accept location request? Requester: %s, client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "GPS ਚਾਲੂ ਕਰਨਾ ਹੈ?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "GPS ਅਤੇ ਨੈੱਟਵਰਕ-ਅਧਾਰਿਤ ਸਥਿਤੀ ਚਾਲੂ ਕਰਨੀ ਹੈ?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "ਨੈੱਟਵਰਕ-ਅਧਾਰਿਤ ਸਥਿਤੀ ਚਾਲੂ ਕਰਨੀ ਹੈ?"
+
+msgid "loca_ni_accept_expired"
+msgstr "ਮੰਗ ਮੰਨਣ ਤੋਂ ਅਸਮਰੱਥ"
+
+msgid "loca_ni_accepted"
+msgstr "Network accepted request on your behalf. Your location was sent to requester: %s, client: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "ਮੰਗ ਰੱਦ ਕਰਨ ਤੋਂ ਅਸਮਰੱਥ"
+
+msgid "loca_ni_rejected"
+msgstr "Network rejected request on your behalf. Your location was not sent to requester: %s, client: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "Network sent your location to requester %s, client %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "NOTICE AND DISCLAIMER"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "loca_ti_services"
+msgstr "ਨੈੱਟਵਰਕ ਸਥਿਤੀ"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "ਸਥਿਤੀ ਚਾਲੂ ਕਰਨੀ ਹੈ?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "ਖੋਜ ਜਾਰੀ ਹੈ"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Coarse accuracy"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "ਵਧੀਆ ਸ਼ੁੱਧਤਾ"
+
+msgid "loca_va_unknown"
+msgstr "ਅਣਜਾਣ"
+
+msgid "loca_va_unknown_device"
+msgstr "ਅਣਜਾਣ ਜੰਤਰ"
