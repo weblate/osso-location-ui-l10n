@@ -1,0 +1,133 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "loca_bd_disclaimer_ok"
+msgstr "Accepta"
+
+msgid "loca_bd_disclaimer_reject"
+msgstr "Rebutja"
+
+msgid "loca_bv_pair_new_device"
+msgstr "Aparella un nou dispositiu"
+
+msgid "loca_fi_device"
+msgstr "Dispositiu GPS"
+
+msgid "loca_fi_disclaimer"
+msgstr "Aquest dispositiu activa el posicionament i funcions basades en ubicació i/o serveis utilitzant la xarxa de mòbil.\n\nLa precisió del posicionament depèn, entre altres coses, de la disponibilitat de xarxes Wi-Fi i dels satèl·lits. Poden no funcionar sempre. A més, la cartografia digital pot no estar actualitzada. Mai depengui únicament d'aquesta tecnologia, p.ex. per comunicacions essencials com emergències.\n\nEls serveis de posicionament estan pensats per a usos no comercials. L'ús dels serveis basats en localització i els seus continguts poden comportar la transmissió de grans quantitats de dades a través del vostre proveïdor de servei. Consulteu amb el proveïdor pel cost d'aquestes transmissions.\n\nEstigueu atent als avisos específics del servei que poden incloure informació addicional respecte als serveis de posicionament.\n\nEn la mesura màxima permesa per la legislació aplicable, Nokia Corporation, les seves filials o atorgants de llicències, declinem tota responsabilitat que es derivi de la utilització de la col·locació i/o qualssevol servei basat en el posicionament i el seu contingut."
+
+msgid "loca_fi_enable_network_posit"
+msgstr "Activa"
+
+msgid "loca_fi_gps"
+msgstr "GPS"
+
+msgid "loca_fi_gps_on"
+msgstr "Activa"
+
+msgid "loca_fi_location_server"
+msgstr "Servidor de posicionament"
+
+msgid "loca_fi_network"
+msgstr "Posicionament per xarxa"
+
+msgid "loca_fi_status_menu_location"
+msgstr "Ubicació"
+
+msgid "loca_in_default_supl_used"
+msgstr "No es pot contactar amb el servidor de posicionament definit per l'usuari. En el seu lloc s'utilitza %s."
+
+msgid "loca_in_no_data"
+msgstr "No es poden baixar dades del mapa"
+
+msgid "loca_in_no_fix"
+msgstr "No es pot fixar la posició GPS"
+
+msgid "loca_li_device_internal"
+msgstr "GPS intern"
+
+msgid "loca_li_device_none"
+msgstr "Cap"
+
+msgid "loca_me_location_home_applet"
+msgstr "Ubicació"
+
+msgid "loca_nc_bt_reconnect"
+msgstr "S'ha perdut la connexió amb el GPS Bluetooth. S'intenta connectar de nou?"
+
+msgid "loca_nc_request_default_accept"
+msgstr "Accepteu la petició d'ubicació? Demanat per: %s, client: %s. Acceptat per defecte després del temps d'espera."
+
+msgid "loca_nc_request_default_reject"
+msgstr "Accepteu la petició d'ubicació? Demanat per: %s, client: %s. Rebutjat per defecte després del temps d'espera."
+
+msgid "loca_nc_request_no_default"
+msgstr "Accepteu la petició d'ubicació? Demanat per: %s, client: %s."
+
+msgid "loca_nc_switch_gps_on"
+msgstr "S'activa el GPS?"
+
+msgid "loca_nc_switch_network_and_gps_on"
+msgstr "S'activa el posicionament basat en GPS i xarxa?"
+
+msgid "loca_nc_switch_network_on"
+msgstr "S'activa el posicionament basat en xarxa?"
+
+msgid "loca_ni_accept_expired"
+msgstr "No s'ha pogut acceptar la petició."
+
+msgid "loca_ni_accepted"
+msgstr "La xarxa ha acceptat la petició en el vostre nom. La vostra posició s'ha enviat a: %s, client: %s"
+
+msgid "loca_ni_reject_expired"
+msgstr "No s'ha pogut rebutjar la petició"
+
+msgid "loca_ni_rejected"
+msgstr "La xarxa ha rebutjat la petició en el vostre nom. La vostra posició s'ha enviat a: %s, client: %s"
+
+msgid "loca_ni_req_sent"
+msgstr "La xarxa ha enviat la vostra posició a %s, client %s"
+
+msgid "loca_ti_disclaimer"
+msgstr "Avís i renúncia"
+
+msgid "loca_ti_general"
+msgstr "GPS"
+
+msgid "loca_ti_location_cpa"
+msgstr "Ubicació"
+
+msgid "loca_ti_services"
+msgstr "Posicionament de xarxa"
+
+msgid "loca_ti_switch_gps_network_on"
+msgstr "S'activa el posicionament?"
+
+msgid "loca_va_status_menu_searching"
+msgstr "S'està cercant"
+
+msgid "loca_va_status_menu_tracking_coarse"
+msgstr "Baixa precisió"
+
+msgid "loca_va_status_menu_tracking_fine"
+msgstr "Alta precisió"
+
+msgid "loca_va_unknown"
+msgstr "Desconegut"
+
+msgid "loca_va_unknown_device"
+msgstr "Dispositiu desconegut"
