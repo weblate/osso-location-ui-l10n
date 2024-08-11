@@ -272,3 +272,10 @@ marketing-release (0.1) unstable; urgency=low
   * Initial release
 
  -- Riku Voipio <ext-riku.voipio@nokia.com>  Wed, 15 Feb 2006 12:49:52 +0200
+
+osso-location-ui-l10n (2024-08-11)) unreleased; urgency=medium
+
+  * Translation updates
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 11 Aug 2024 12:01:42 +0200
+
